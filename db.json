@@ -1,1 +1,14 @@
-["test", "data", "test", 2020-02-22, 123, 100, '']
+{ "options: [ 
+ { type: "string", label: "task ID"}
+ ],
+[
+  'test',
+  'data',
+  'data',
+  new Date(2020, 2, 22),
+  new Date(2020, 5, 22),
+  123,
+  100,
+  '',
+  ]
+}
