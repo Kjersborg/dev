@@ -1,5 +1,5 @@
-{ "options": [ 
- { "type": "string", label: "task ID"}
+{ options: [ 
+ { type: "string", label: "task ID"}
  ],
 [
   'test',
